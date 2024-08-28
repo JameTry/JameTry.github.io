@@ -1,4 +1,4 @@
-languageCode: zh-cn
+defaultContentLanguage: zh-cn
 params:
   contact:
     email: 3525166560@qq.com
@@ -19,3 +19,12 @@ pagination:
   disableAliases: false
   pagerSize: 10
   path: page
+
+languages:
+  zh-cn:
+    contentDir: content
+    languageCode: zh-cn
+    languageName: 中文
+    params:
+      reading_speed: 150
+    weight: 1
