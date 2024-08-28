@@ -20,8 +20,8 @@ params:
 
     sidebar:
         compact: false
-        emoji:
-        subtitle:
+        emoji: 
+        subtitle: 在无趣中消亡
         avatar:
             enabled: true
             local: true
