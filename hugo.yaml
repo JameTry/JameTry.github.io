@@ -1,3 +1,22 @@
-services:
-  disqus:
-    shortname: sakznb
+languageCode: zh-cn
+params:
+  contact:
+    email: 3525166560@qq.com
+  subtitle: dfggreet
+title: Jame
+theme: stack
+menus:
+  main:
+    - name: 文章
+      pageRef: /post
+      weight: 1
+    - name: 图片
+      pageRef: /picture
+      weight: 2
+    - name: 友链
+      pageRef: /friend/index
+      weight: 3
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page

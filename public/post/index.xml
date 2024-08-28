@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on My New Hugo Site</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on My New Hugo Site</description>
+        <title>Posts on Jame</title>
+        <link>//localhost:1313/post/</link>
+        <description>Recent content in Posts on Jame</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 28 Aug 2024 07:55:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>First</title>
-        <link>http://localhost:1313/post/first/</link>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 28 Aug 2024 07:55:51 +0800</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>fg</title>
+        <link>//localhost:1313/post/bb/ff/</link>
         <pubDate>Wed, 28 Aug 2024 07:55:51 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/first/</guid>
-        <description>&lt;h1 id=&#34;wdnmd&#34;&gt;wdnmd
-&lt;/h1&gt;&lt;p&gt;测试请注意，front matter 中的值为 。默认情况下，Hugo 在您构建站点时不会发布草稿内容。详细了解草稿、未来和过期内容。drafttrue&lt;/p&gt;
-&lt;p&gt;在文章的正文中添加一些 Markdown，但不要更改该值。draft&lt;/p&gt;
-</description>
+        <guid>//localhost:1313/post/bb/ff/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/bb/2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Thénardier was not mistaken. The man was sitting there, and letting
+Cosette get somewhat rested.&lt;/p&gt;
+&lt;p&gt;The inn-keeper walked round the brushwood and presented himself
+abruptly to the eyes of those whom he was in search of.he eyes of those whom he was in search of.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>First</title>
+        <link>//localhost:1313/post/first/</link>
+        <pubDate>Wed, 28 Aug 2024 07:55:51 +0800</pubDate>
+        
+        <guid>//localhost:1313/post/first/</guid>
+        <description>&lt;p&gt;Thénardier was not mistaken. The man was sitting there, and letting
+Cosette get somewhat rested.&lt;/p&gt;
+&lt;p&gt;The inn-keeper walked round the brushwood and presented himself
+abruptly to the eyes of those whom he was in search of.he eyes of those whom he was in search of.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>sad</title>
+        <link>//localhost:1313/post/a/</link>
+        <pubDate>Wed, 28 Aug 2024 07:55:51 +0800</pubDate>
+        
+        <guid>//localhost:1313/post/a/</guid>
+        <description>&lt;p&gt;Thénardier was not mistaken. The man was sitting there, and letting
+Cosette get somewhat rested.&lt;/p&gt;
+&lt;p&gt;The inn-keeper walked round the brushwood and presented himself
+abruptly to the eyes of those whom he was in search of.he eyes of those whom he was in search of.&lt;/p&gt;</description>
         </item>
         
     </channel>
