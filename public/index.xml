@@ -6,6 +6,17 @@
         <description>Recent content on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 28 Aug 2024 07:55:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 28 Aug 2024 07:55:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First</title>
+        <link>http://localhost:1313/post/first/</link>
+        <pubDate>Wed, 28 Aug 2024 07:55:51 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/first/</guid>
+        <description>&lt;h1 id=&#34;wdnmd&#34;&gt;wdnmd
+&lt;/h1&gt;&lt;p&gt;测试请注意，front matter 中的值为 。默认情况下，Hugo 在您构建站点时不会发布草稿内容。详细了解草稿、未来和过期内容。drafttrue&lt;/p&gt;
+&lt;p&gt;在文章的正文中添加一些 Markdown，但不要更改该值。draft&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
