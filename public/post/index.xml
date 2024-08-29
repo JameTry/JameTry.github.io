@@ -2,39 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Jame</title>
-        <link>/post/</link>
+        <link>//localhost:1313/post/</link>
         <description>Recent content in Posts on Jame</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
-        <link>/post/helloworld/</link>
+        <link>//localhost:1313/post/helloworld/</link>
         <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/helloworld/</guid>
-        <description>&lt;p&gt;之前的www.jame.work那个服务器时腾讯云打折的时候500多好像买3年的，但只有一个博客跑着，明年就过期了，干脆不整自己的服务器了。&lt;/p&gt;
+        <guid>//localhost:1313/post/helloworld/</guid>
+        <description>&lt;p&gt;之前的www.jame.work那个服务器是腾讯云打折的时候500多好像买3年的，但只有一个博客跑着，明年就过期了，干脆不整自己的服务器了。&lt;/p&gt;
 &lt;p&gt;我也就发些图片和文字，图片的话就扔哔哩哔哩上面了，&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/416550390&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;想看的去看看吧&lt;/a&gt;，文字啥的就放github page上&lt;/p&gt;
 &lt;p&gt;评论是用白嫖的mongoDB数据库和huggingFace的服务器，cdn白嫖的Cloudflare。反正整下来一分钱没花，就是麻烦。就这样。&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>下雨天最舒服的两件事</title>
-        <link>/post/21/</link>
-        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        <title>世界那么大，我想去看看。</title>
+        <link>//localhost:1313/post/23/</link>
+        <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/21/</guid>
-        <description>&lt;p&gt;下雨天最舒服的两件事情，第一是待在家里，无论是打游戏还是看电影，或许睡觉，看玻璃上的水珠缓缓落下，啪嗒啪嗒的，屋外的空气有些许潮湿，行人都撑起伞，急匆匆的走在路上，而我打开空调，干爽和舒适的温度，慢悠悠的，虽然中午，天空的颜色却已如傍晚，世界的色彩暗暗的，这让我感到宁静，这种反差让我感到舒服。&lt;/p&gt;
-&lt;p&gt;其次便是走在外面，不管雨打在背上，风把伞吹翻，干脆别打伞，像淋浴一样，而和那些急匆匆的行人相反，舒缓的走在路上，拨开水的不是拖鞋、凉鞋，是穿着袜子，系好鞋带的运动鞋。可以轻声哼唱，也可以大声唱歌，因为雨的声音会淹没一切，风会把你的声音吹到天上，而那些行人，他们只想着快点到达屋里，没人会在意一个在雨中行走的人。总之，下雨时感觉这个世界清净了一样，不用像晴天躲避烈日时的匆忙，静静的聆听，嘈杂的雨声中的肃静。风声，雨声，还有泥土的声音。&lt;/p&gt;
-&lt;p&gt;听起来或许有些荒谬，两件不同甚至完全相反的事情，但这都是让我感到舒服的事情。&lt;/p&gt;
+        <guid>//localhost:1313/post/23/</guid>
+        <description>&lt;p&gt;这个世界这么大，大到一个人不停地走，穷其一生也难以逛遍每个角落，却又如此小，大部分人一生中的大部分时间都被困在房子中，工厂、车间、或是高大上的办公室，在几十平的屋里工作，然后躺到两米的床上，醒了后再回去工作，周而复始。&lt;/p&gt;
+&lt;p&gt;我不开心。我不太喜欢我的工作，但也算不上讨厌，只是浑浑噩噩的过着，我似乎病了，变得不再热血，不再开朗，真像个提线木偶一样，每天期待的时间就是下班后能看看夕阳，仅此而已，越发的感觉无趣，刷视频没意思，看电影没意思，玩游戏也没意思。我想一走白了，去他妈的工作，人就应该接触自然，去看去听去触摸。但实际的问题是我有没有那个勇气去辞职，考虑以后的问题太多。虽说不太想干，但上班其实也没有啥，到点去到点走，下班了什么也不用想，明天的事情交给明天的我。最重要的一点就是，他给我钱啊！就是坐在那里摸一天的鱼，到月了工资也不少一天的，虽说我也不是见钱眼开的人，但钱是活着的基础，保障，有谁会和钱过不去呢？&lt;/p&gt;
+&lt;p&gt;于是我就这样一直拧巴着，幸福，但不开心。我不想这样过完一生，我想去看雪山，想去看大海，我不想这样活着，就算是当个渔夫，当个牧民。不知道我在追寻什么，不知道我在等待什么。要说人活着的意义，我一直在思考但啥都没思考出来，但要是问我人活着为了啥？那我一定说为了夕阳、云朵，为了璀璨星辰，为了高山,为了草原，为了所有的景色。我越是想，越是和现在的生活对抗，我的灵魂就如大麻花一样，不，比那更拧巴。&lt;/p&gt;
+&lt;p&gt;每天傍晚坐在天台上我都很惆怅，我太羡慕头顶上那些坐飞机的人了，他们能更好的看到夕阳，从一个我从来没有过的角度，机长会看一看几乎每天都看到的景色吗？靠西面的乘客会打开遮光板看夕阳吗，坐在东边的乘客会羡慕坐在西边的吗？我只剩胡思乱想，呆呆的看着夕阳。&lt;/p&gt;
+&lt;p&gt;无趣啊，无趣啊。 太阳下去，天黑了，希望我今晚能做个梦，梦中在雪山滑雪，在大海里冲浪。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>秋天的余晖</title>
-        <link>/post/22/</link>
+        <link>//localhost:1313/post/22/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/22/</guid>
+        <guid>//localhost:1313/post/22/</guid>
         <description>&lt;p&gt;要说夏天能首先想到的词语是绽放和热烈，那秋天的就是凋零和萧瑟，总感觉秋天有一股忧伤的味道，下完雨后温度明显下降，傍晚看夕阳的时候风吹得我都有些冷了，让我想到19年刚搬到这里的时候，那时候就经常去天台看夕阳，九月份，那会刚进入真正的秋天，印象最深的就是当时每天晚上打开窗户，风呼呼的吹，穿堂风一夜不停，能感受到风从身上拂过，非常舒服。&lt;/p&gt;
 &lt;p&gt;而转眼已经过了5年，当时的我晚上睡觉为了吹吹风，除了下雨都开着窗，听着楼下时不时的谈话声、咳嗽声，帘子呼啦呼啦的响着，大货车轮胎与马路的摩擦声，慢慢的来，轰隆隆的响起，又慢慢的去，不算安静的环境中呼呼大睡，因为没拉帘子，拉了也没用风早就吹开了，早上太阳非常耀眼，而且一般会有在公园抽鞭子的，我家离公园并不远，小区里还有一个幼儿园，一般早上也会用大喇叭放那种儿歌，但还是能睡到自然醒，要是前天晚上熬了夜，甚至能睡到中午，有一次甚至睡到了下午一点多。但现在，我打开空调，关上窗户，拉上帘子，安静到能听到自己的心跳，依然辗转反侧，难以入眠。而早上一般也和平时上班的点差不多就会醒来，即使前天晚上熬夜了。&lt;/p&gt;
 &lt;p&gt;吃完饭刷杯子时站在窗前，一阵风来，似曾相识的感觉，是秋天的风，吹得我有些恍惚，这种感觉有过很多次。不知为什么我有些想哭，但又不知道为何想，又不知道为何哭，又哭不出来，感觉有东西在拉扯着心脏，很难受，好像已经很久没有哭过了。我觉得让一个大人哭比哄好一个哭的大人更难。长大后的情感不再是能通过哭一哭就能释放掉的了，要是能哭一场就抛开烦恼，那我一定是个爱哭的人。&lt;/p&gt;
@@ -42,69 +44,88 @@
 </description>
         </item>
         <item>
+        <title>下雨天最舒服的两件事</title>
+        <link>//localhost:1313/post/21/</link>
+        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/21/</guid>
+        <description>&lt;p&gt;下雨天最舒服的两件事情，第一是待在家里，无论是打游戏还是看电影，或许睡觉，看玻璃上的水珠缓缓落下，啪嗒啪嗒的，屋外的空气有些许潮湿，行人都撑起伞，急匆匆的走在路上，而我打开空调，干爽和舒适的温度，慢悠悠的，虽然中午，天空的颜色却已如傍晚，世界的色彩暗暗的，这让我感到宁静，这种反差让我感到舒服。&lt;/p&gt;
+&lt;p&gt;其次便是走在外面，不管雨打在背上，风把伞吹翻，干脆别打伞，像淋浴一样，而和那些急匆匆的行人相反，舒缓的走在路上，拨开水的不是拖鞋、凉鞋，是穿着袜子，系好鞋带的运动鞋。可以轻声哼唱，也可以大声唱歌，因为雨的声音会淹没一切，风会把你的声音吹到天上，而那些行人，他们只想着快点到达屋里，没人会在意一个在雨中行走的人。总之，下雨时感觉这个世界清净了一样，不用像晴天躲避烈日时的匆忙，静静的聆听，嘈杂的雨声中的肃静。风声，雨声，还有泥土的声音。&lt;/p&gt;
+&lt;p&gt;听起来或许有些荒谬，两件不同甚至完全相反的事情，但这都是让我感到舒服的事情。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>动物之诗</title>
-        <link>/post/20/</link>
+        <link>//localhost:1313/post/20/</link>
         <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/20/</guid>
-        <description>&lt;p&gt;《猫之诗》
-喵喵喵喵喵，
-喵喵喵喵喵。
-喵喵喵喵喵，
-喵喵喵喵喵。&lt;/p&gt;
-&lt;p&gt;《狗之诗》
-汪汪汪汪汪，
-汪汪汪汪汪。
-汪汪汪汪汪，
-汪汪汪汪汪。&lt;/p&gt;
-&lt;p&gt;《鸭之诗》
-嘎嘎嘎嘎嘎，
-嘎嘎嘎嘎嘎。
-嘎嘎嘎嘎嘎，
-嘎嘎嘎嘎嘎。&lt;/p&gt;
-&lt;p&gt;《牛之诗》
-哞哞哞哞哞，
-哞哞哞哞哞。
-哞哞哞哞哞，
-哞哞哞哞哞。&lt;/p&gt;
-&lt;p&gt;《羊之诗》
-咩咩咩咩咩，
-咩咩咩咩咩。
-咩咩咩咩咩，
-咩咩咩咩咩。&lt;/p&gt;
-&lt;p&gt;《老鼠之诗》
-吱吱吱吱吱，
-吱吱吱吱吱。
-吱吱吱吱吱，
-吱吱吱吱吱。&lt;/p&gt;
-&lt;p&gt;《青蛙之诗》
-呱呱呱呱呱，
-呱呱呱呱呱。
-呱呱呱呱呱，
-呱呱呱呱呱。&lt;/p&gt;
-&lt;p&gt;《狼之诗》
-嚎嚎嚎嚎嚎，
-嚎嚎嚎嚎嚎。
-嚎嚎嚎嚎嚎，
-嚎嚎嚎嚎嚎。&lt;/p&gt;
-&lt;p&gt;《鸡之诗》
-咯咯咯咯嗒，
-咯咯咯咯嗒。
-咯咯咯咯嗒，
-咯咯咯咯嗒。&lt;/p&gt;
-&lt;p&gt;《人之诗》
-，
-。
-，
-。&lt;/p&gt;
+        <guid>//localhost:1313/post/20/</guid>
+        <description>&lt;p&gt;《猫之诗》&lt;/p&gt;
+&lt;p&gt;喵喵喵喵喵，&lt;/p&gt;
+&lt;p&gt;喵喵喵喵喵。&lt;/p&gt;
+&lt;p&gt;喵喵喵喵喵，&lt;/p&gt;
+&lt;p&gt;喵喵喵喵喵。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《狗之诗》&lt;/p&gt;
+&lt;p&gt;汪汪汪汪汪，&lt;/p&gt;
+&lt;p&gt;汪汪汪汪汪。&lt;/p&gt;
+&lt;p&gt;汪汪汪汪汪，&lt;/p&gt;
+&lt;p&gt;汪汪汪汪汪。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《鸭之诗》&lt;/p&gt;
+&lt;p&gt;嘎嘎嘎嘎嘎，&lt;/p&gt;
+&lt;p&gt;嘎嘎嘎嘎嘎。&lt;/p&gt;
+&lt;p&gt;嘎嘎嘎嘎嘎，&lt;/p&gt;
+&lt;p&gt;嘎嘎嘎嘎嘎。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《牛之诗》&lt;/p&gt;
+&lt;p&gt;哞哞哞哞哞，&lt;/p&gt;
+&lt;p&gt;哞哞哞哞哞。&lt;/p&gt;
+&lt;p&gt;哞哞哞哞哞，&lt;/p&gt;
+&lt;p&gt;哞哞哞哞哞。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《羊之诗》&lt;/p&gt;
+&lt;p&gt;咩咩咩咩咩，&lt;/p&gt;
+&lt;p&gt;咩咩咩咩咩。&lt;/p&gt;
+&lt;p&gt;咩咩咩咩咩，&lt;/p&gt;
+&lt;p&gt;咩咩咩咩咩。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《老鼠之诗》&lt;/p&gt;
+&lt;p&gt;吱吱吱吱吱，&lt;/p&gt;
+&lt;p&gt;吱吱吱吱吱。&lt;/p&gt;
+&lt;p&gt;吱吱吱吱吱，&lt;/p&gt;
+&lt;p&gt;吱吱吱吱吱。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《青蛙之诗》&lt;/p&gt;
+&lt;p&gt;呱呱呱呱呱，&lt;/p&gt;
+&lt;p&gt;呱呱呱呱呱。&lt;/p&gt;
+&lt;p&gt;呱呱呱呱呱，&lt;/p&gt;
+&lt;p&gt;呱呱呱呱呱。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《狼之诗》&lt;/p&gt;
+&lt;p&gt;嚎嚎嚎嚎嚎，&lt;/p&gt;
+&lt;p&gt;嚎嚎嚎嚎嚎。&lt;/p&gt;
+&lt;p&gt;嚎嚎嚎嚎嚎，&lt;/p&gt;
+&lt;p&gt;嚎嚎嚎嚎嚎。&lt;/p&gt;
+&lt;p&gt;《鸡之诗》&lt;/p&gt;
+&lt;p&gt;咯咯咯咯嗒，&lt;/p&gt;
+&lt;p&gt;咯咯咯咯嗒。&lt;/p&gt;
+&lt;p&gt;咯咯咯咯嗒，&lt;/p&gt;
+&lt;p&gt;咯咯咯咯嗒。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;《人之诗》&lt;/p&gt;
+&lt;p&gt;，&lt;/p&gt;
+&lt;p&gt;。&lt;/p&gt;
+&lt;p&gt;，&lt;/p&gt;
+&lt;p&gt;。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>胡言乱语</title>
-        <link>/post/19/</link>
+        <link>//localhost:1313/post/19/</link>
         <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/19/</guid>
+        <guid>//localhost:1313/post/19/</guid>
         <description>&lt;p&gt;在天台来回踱步，猫怎么会说话呢？于是我倒立着看夕阳。开着车在城中穿梭直到天亮，彻夜畅谈导致了失眠，紧紧抱住被子，那只是一个梦。灵魂开始流散，呼呼的穿堂风一个劲吹的我手足无措，记忆坐在幻想身旁，他们落下的眼泪都被风吹到了天上。&lt;/p&gt;
 &lt;p&gt;黑暗正在慢慢吞噬昏黄的日光，飞机撞上云朵发出了巨大的声响。撬开地狱的大门，恶魔探出头说人已经满了，让我快去天堂。剥开鲜花发现里面是牛粪。小鸟一头撞到了玻璃上，只留下了一支美丽的、带血的羽毛。&lt;/p&gt;
 &lt;p&gt;我在草地上飞翔，直冲云霄，他们收紧了风筝线。砖头上的牵羊花散漫的绽放，我又睡着了。我在这里干什么呢！？我在等待一只会说话的鸟，并还给它的羽毛。松开了手，让被子跑走了，声嘶力竭的说这不是梦，一个疯狂又恐怖的声音钻入我的大脑。我不知道能否忍受这就是幻觉。&lt;/p&gt;
@@ -114,21 +135,11 @@
 </description>
         </item>
         <item>
-        <title>一阵风吹有感</title>
-        <link>/post/18/</link>
-        <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-        
-        <guid>/post/18/</guid>
-        <description>&lt;p&gt;八月中旬，一年又已过一大半，之前从未感觉时间过得如此快。日出日落，一天又一天，绿芽黄叶，一年又一年。一日一日的过着，恍恍惚惚已过去二十多年。&lt;/p&gt;
-&lt;p&gt;上周已经立秋，夏天已经过去了，下午三点我站在屋外，一阵风来，我又感受到了秋天。&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>孤独</title>
-        <link>/post/17/</link>
+        <link>//localhost:1313/post/17/</link>
         <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/17/</guid>
+        <guid>//localhost:1313/post/17/</guid>
         <description>&lt;p&gt;孤独总是伴随着我。当停下思考，它便会悄然出现，如光与影。&lt;/p&gt;
 &lt;p&gt;不是寂寞，是一种更深邃的感觉，或许并不讨厌它。&lt;/p&gt;
 &lt;p&gt;并非寂静独处时才会出现，在吵闹人群中依然存在。&lt;/p&gt;
@@ -145,11 +156,21 @@
 </description>
         </item>
         <item>
+        <title>一阵风吹有感</title>
+        <link>//localhost:1313/post/18/</link>
+        <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/18/</guid>
+        <description>&lt;p&gt;八月中旬，一年又已过一大半，之前从未感觉时间过得如此快。日出日落，一天又一天，绿芽黄叶，一年又一年。一日一日的过着，恍恍惚惚已过去二十多年。&lt;/p&gt;
+&lt;p&gt;上周已经立秋，夏天已经过去了，下午三点我站在屋外，一阵风来，我又感受到了秋天。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>物品的本质</title>
-        <link>/post/16/</link>
+        <link>//localhost:1313/post/16/</link>
         <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/16/</guid>
+        <guid>//localhost:1313/post/16/</guid>
         <description>&lt;p&gt;依然有很多人看不透物品的本质目的，或说他们享受物品本质外带来的东西，如汽车，它出现的目的就是将人、货轻松方便的移动到另一处地方，至于5万的车和10万、100万，区别在于乘坐的舒适性，速度，内饰等等一些附加内容，但并不影响它根本的目的。&lt;/p&gt;
 &lt;p&gt;但如今资本的推动和人内心虚荣的驱使，又给它们包装了一层外衣：“面子”。这甚至超过了物品本身，而社会又有人不断地去引导和激发这种莫名其妙的羞耻心，沉浸于攀比和炫耀而忘了物品真正的目的。我们都在被潜移默化的影响着。&lt;/p&gt;
 &lt;p&gt;人与人之间或多或少都会被物品影响，很难不去通过一个人所拥有的物品去评价他，会根据衣装打扮，开的什么车？住怎样的房？第一印象便会被他的物品而非他个人所定义。&lt;/p&gt;
@@ -160,10 +181,10 @@
         </item>
         <item>
         <title>粉色云</title>
-        <link>/post/15/</link>
+        <link>//localhost:1313/post/15/</link>
         <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/15/</guid>
+        <guid>//localhost:1313/post/15/</guid>
         <description>&lt;p&gt;你不会明白的。&lt;/p&gt;
 &lt;p&gt;一片云有什么值得兴奋的？&lt;/p&gt;
 &lt;p&gt;漫天遮罩着的乌云让我快要放弃了。&lt;/p&gt;
@@ -183,10 +204,10 @@
         </item>
         <item>
         <title>暴雨</title>
-        <link>/post/14/</link>
+        <link>//localhost:1313/post/14/</link>
         <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/14/</guid>
+        <guid>//localhost:1313/post/14/</guid>
         <description>&lt;p&gt;暴雨下吧，下得再大些吧！&lt;/p&gt;
 &lt;p&gt;狂风吹吧，吹得再猛烈些吧！&lt;/p&gt;
 &lt;p&gt;总是喜欢这种极端的天气。&lt;/p&gt;
@@ -200,34 +221,34 @@
         </item>
         <item>
         <title>暮林</title>
-        <link>/post/13/</link>
+        <link>//localhost:1313/post/13/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/13/</guid>
-        <description>&lt;p&gt;日暮行林巷，窥绿以见阳。
-叶隙流光影，雀鸣声幽扬。
-未觉林渐绿，却拂片刻凉。
-静踏风流淌，细闻花草芳。
-夕晖洒金缕，举目物皆黄。
-日落星辰现，心随暮色长。&lt;/p&gt;
+        <guid>//localhost:1313/post/13/</guid>
+        <description>&lt;p&gt;日暮行林巷，窥绿以见阳。&lt;/p&gt;
+&lt;p&gt;叶隙流光影，雀鸣声幽扬。&lt;/p&gt;
+&lt;p&gt;未觉林渐绿，却拂片刻凉。&lt;/p&gt;
+&lt;p&gt;静踏风流淌，细闻花草芳。&lt;/p&gt;
+&lt;p&gt;夕晖洒金缕，举目物皆黄。&lt;/p&gt;
+&lt;p&gt;日落星辰现，心随暮色长。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>应该的童年</title>
-        <link>/post/12/</link>
+        <link>//localhost:1313/post/12/</link>
         <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/12/</guid>
+        <guid>//localhost:1313/post/12/</guid>
         <description>&lt;p&gt;大人们不该整天拿学业压着小孩，总有一天他们也会投身到这个痛苦又糟糕的社会，等他们长大后，回忆童年应该是欢笑，是窝在沙发上看电视，玩滑板，打游戏，是云朵，是草地。&lt;/p&gt;
 &lt;p&gt;而不是一对严厉苛刻的父母、写不完的卷子和做不完的题。 这样当他们难过时回想往事：哈，至少我还有一个快乐又美好的童年。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>No Anything！</title>
-        <link>/post/10/</link>
+        <link>//localhost:1313/post/10/</link>
         <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/10/</guid>
+        <guid>//localhost:1313/post/10/</guid>
         <description>&lt;p&gt;那些大人总是让我们&amp;hellip;.&lt;/p&gt;
 &lt;p&gt;不说话&lt;/p&gt;
 &lt;p&gt;不玩耍&lt;/p&gt;
@@ -278,10 +299,10 @@
         </item>
         <item>
         <title>快乐药</title>
-        <link>/post/11/</link>
+        <link>//localhost:1313/post/11/</link>
         <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/11/</guid>
+        <guid>//localhost:1313/post/11/</guid>
         <description>&lt;p&gt;我坐在公交车里，站着的人都板着脸，一定是他们没有座位所以不高兴吧，那为什么坐着的人也不笑呢？&lt;/p&gt;
 &lt;p&gt;我走在路上，路过的人都板着脸，一定是他们要上班所以不开心吧，但今天是星期天啊！&lt;/p&gt;
 &lt;p&gt;我站在考场外，看到迟到的人哭了，一定是他因为不能考试所以难过吧，那为什么从里面出来的人也哭了呢？&lt;/p&gt;
@@ -292,10 +313,10 @@
         </item>
         <item>
         <title>心之所念，吾之所愿</title>
-        <link>/post/9/</link>
+        <link>//localhost:1313/post/9/</link>
         <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/9/</guid>
+        <guid>//localhost:1313/post/9/</guid>
         <description>&lt;p&gt;人生于天地之间，本就各自有其所向，随择而做也能衣温食饱，但仍不知足，如今追逐物质致身乏体累、心魂迷失。未得即悲，得之又欲，早已不愿跟随其后。奢侈名牌，高楼大厦，在我眼中不如巍巍山川，娟娟溪流。&lt;/p&gt;
 &lt;p&gt;然则我也深陷其中，物满但思空，体完却神缺，十四亿人中仍觉孤独，九百六十万平方公里竟找不到三尺安眠之处，只愿回归本我，常惑山川秀丽，景色优美，今只见得九牛一毛，已觉其美也。但为何今人见阳光却拉帘，听鸟叫便关窗，上不看飘软白云，璀璨星辰，下不观草木落叶，蜂飞蝶舞，只沉浸于掌中之物，然时不回流，欲虚而舍其实，甚觉可惜。&lt;/p&gt;
 &lt;p&gt;若有朝一日，我定弃名绝利，归隐山林，居木屋，养家禽，种菜牧羊。朝识一草一木，晚伴一水一叶，观落暮随后继星辰，闻鹿鸣而又携秋风。吾非圣贤，难能不以物喜不以己悲，但如若在此，心安能不静，神焉能不定？&lt;/p&gt;
@@ -304,10 +325,10 @@
         </item>
         <item>
         <title>一切未变，心境何变？</title>
-        <link>/post/8/</link>
+        <link>//localhost:1313/post/8/</link>
         <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/8/</guid>
+        <guid>//localhost:1313/post/8/</guid>
         <description>&lt;p&gt;若见过汹涌浩瀚的大海，便不会再对宁静娟细的河流发出赞叹。&lt;/p&gt;
 &lt;p&gt;若登上巍峨耸立的山峰，便不会再对低矮蜿蜒的丘陵有所期待。&lt;/p&gt;
 &lt;p&gt;若瞻望广袤无垠的草原，便不会再对狭小拥挤的盆景复有留恋。&lt;/p&gt;
@@ -316,10 +337,10 @@
         </item>
         <item>
         <title>秋日公园的孤独</title>
-        <link>/post/7/</link>
+        <link>//localhost:1313/post/7/</link>
         <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/7/</guid>
+        <guid>//localhost:1313/post/7/</guid>
         <description>&lt;p&gt;应是已入深秋，一个风和日丽的下午，我闲来无事在公园边溜达，秋风萧瑟，一阵风过，哗啦啦卷起地上的落叶，风声，树叶摩擦声音过后，听见稚嫩的声音：快踢给我，该我踢了！砰的一声，不知是他劲大还是风吹的原因，踢的老远了，一会听见呼哧呼哧的喘息：你踢的太远了，我们不和你玩了，走，咱俩玩去。&lt;/p&gt;
 &lt;p&gt;我不踢这么远了，咱仨一起玩吧。声音仿佛带点乞求的腔调。&lt;/p&gt;
 &lt;p&gt;行吧，那你小点劲。&lt;/p&gt;
@@ -354,10 +375,10 @@
         </item>
         <item>
         <title>糟糕的婚礼</title>
-        <link>/post/6/</link>
+        <link>//localhost:1313/post/6/</link>
         <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/6/</guid>
+        <guid>//localhost:1313/post/6/</guid>
         <description>&lt;p&gt;在一场婚礼上，下面嘉宾满座，到了经典环节，司仪询问新娘：你愿意嫁给这位男士让他成为你的丈夫吗？无论今后贫穷或富贵，健康或疾病，你都会爱他，珍惜他，直到永远？&lt;/p&gt;
 &lt;p&gt;“我愿意。”&lt;/p&gt;
 &lt;p&gt;司仪询问新郎：那你愿意娶这位女士让她成为你的妻子吗？无论今后贫穷或富贵，健康或疾病，你都会爱她，珍惜她，直到永远？&lt;/p&gt;
@@ -385,10 +406,10 @@
         </item>
         <item>
         <title>流浪猫</title>
-        <link>/post/5/</link>
+        <link>//localhost:1313/post/5/</link>
         <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/5/</guid>
+        <guid>//localhost:1313/post/5/</guid>
         <description>&lt;p&gt;一只流浪猫被捡回了家，瞧瞧这猫多漂亮，这冬有地暖夏有空调，在外面多受罪，然后买了猫砂猫粮，还用纸箱给搭了一个小床。从此每天下班吃饭洗澡睡觉以外，便是摸一摸小猫。&lt;/p&gt;
 &lt;p&gt;“我的生活全部改变了，除了每天晒晒太阳，也就只有在这间屋子里来回晃荡，等待他下班。虽然吃喝不愁，但我还是更想在草地上奔跑，有时能遇到帅气的小公猫，有时也能遇到脾气暴躁的狗，但我现在哪里也去不了” 猫说。&lt;/p&gt;
 &lt;p&gt;“虽然很感激，但还是告诉他我想离开吧”。&lt;/p&gt;
@@ -400,16 +421,16 @@
         </item>
         <item>
         <title>工服</title>
-        <link>/post/workclothes/</link>
+        <link>//localhost:1313/post/workclothes/</link>
         <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/workclothes/</guid>
+        <guid>//localhost:1313/post/workclothes/</guid>
         <description>&lt;p&gt;我两手拽起工服的衣角，从身后将它翻到头顶，做出了儿时经常做的动作，想象自己是一架飞机，动作相似，但是无忧无虑的日子再也回不去了。&lt;/p&gt;
 &lt;p&gt;我坐下来摆弄着质地偏硬的衣领，越觉得这不是棉做的衣服，而是铁做的镣铐。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/workclothes/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/workclothes/1.jpg&#34;
 	width=&#34;1080&#34;
 	height=&#34;1920&#34;
-	srcset=&#34;/post/workclothes/1_hu6706222235888997423.jpg 480w, /post/workclothes/1_hu15669521094812933858.jpg 1024w&#34;
+	srcset=&#34;//localhost:1313/post/workclothes/1_hu6706222235888997423.jpg 480w, //localhost:1313/post/workclothes/1_hu15669521094812933858.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -422,10 +443,10 @@
         </item>
         <item>
         <title>遗书</title>
-        <link>/post/4/</link>
+        <link>//localhost:1313/post/4/</link>
         <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/4/</guid>
+        <guid>//localhost:1313/post/4/</guid>
         <description>&lt;p&gt;不要为我伤心哭泣，也不用为我哀思怀念，假装我只是出了一趟远门，恳请不要购置棺椁，办葬礼，我向来不喜欢那种阴暗狭小的空间，也不喜欢吵吵闹闹的环境。哦对了，记得让师傅把火开大一些，那样手感能和面粉一样细腻丝滑吗？&lt;/p&gt;
 &lt;p&gt;之后把我用垃圾袋装好然后扔天台上，等到1000天后，这件事就会像从未发生一样，我从未出生一样，时间的车轮会慢慢碾碎所有记忆和存在的痕迹，只有你们还记得或隐约记得我，知道我曾来过。爱我的人也许在某个失眠的夜里突然想起我，泪水浸湿枕巾，去天台石板上坐坐吧，我曾在无数个傍晚坐在那里看夕阳，去试着看还能不能感受到我在那里留下的余温，假想我还坐在你身旁，帮你擦去未干的泪痕，小声在你耳边嘟囔。&lt;/p&gt;
 &lt;p&gt;如果你想起我，想起我还在天台蜷缩在某个角落，选个冷清的早晨，抓上一把撒到海里去吧，是和鱼儿一起随波逐流？还是漂浮到南极伏在某只企鹅的背上？或是随着蒸发变成雨水回到城市，以分子的形式我们再次相遇？那我一定紧紧抓住你的发梢，不敢松懈分毫。&lt;/p&gt;
@@ -435,10 +456,10 @@
         </item>
         <item>
         <title>偷飞机的人</title>
-        <link>/post/3/</link>
+        <link>//localhost:1313/post/3/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/3/</guid>
+        <guid>//localhost:1313/post/3/</guid>
         <description>&lt;p&gt;这是一个真实的故事,故事主人公叫理查德,是一个在机场工作的地勤,每天的工作就是将乘客的箱子搬上飞机和从飞机上卸下来.&lt;/p&gt;
 &lt;p&gt;而在一个周五的傍晚,理查德在完成了一天的常规工作后,偷偷的溜进一家客机的驾驶舱,他没有接受过任何训练,仅仅靠着一些模拟航空游戏的经验,理查德把飞机飞上了天空,而这架飞机,导致了美国第九大机场的空中交通中断了一个多小时,上千名旅客被滞留在候机楼,而在机场的不远处便是西雅图最高的建筑哥伦比亚中心,难道要重演911?&lt;/p&gt;
 &lt;p&gt;但是在75分钟后,飞机在一个人烟稀少的地方坠毁,除了他没有其他人员伤亡.&lt;/p&gt;
@@ -503,20 +524,20 @@
         </item>
         <item>
         <title>海和夕阳，我和猫</title>
-        <link>/post/seaandsunset_iandcat/</link>
+        <link>//localhost:1313/post/seaandsunset_iandcat/</link>
         <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/seaandsunset_iandcat/</guid>
+        <guid>//localhost:1313/post/seaandsunset_iandcat/</guid>
         <description>&lt;p&gt;虽然已经见过很多次了，仍愿意再次为它驻足。&lt;/p&gt;
 &lt;p&gt;虽然已经见过很多次了，那再看一次又何妨呢？&lt;/p&gt;
 &lt;p&gt;当我真正的站在这里时，才知道有些东西是屏幕所传递不了的，抬起头，漫天的，一片反重力的橘红色的海向我扑来，海风裹挟着海浪拍打岸边的声音抚摸着我的耳朵，内心一种原始的冲动不止一次的想要呼喊出来，一时间竟退化成只会使用哇，啊，和肢体动作来表达情感。忘记了所有词语，忘记了所有造句手法，甚至忘记了呼吸，脱口而出的只有一句：“我操！真他妈好看!”。但这相对于那些精妙的句子是对它有着更高的赞赏吧。&lt;/p&gt;
 &lt;p&gt;此刻思绪万千，却发不出一点声响，静静的享受着，橘黄色的光线照在沙滩和我身上，直视阳光也并没有那么刺眼，淡淡的海水味空气如此清新，我忍不住大口呼吸，再多待会吧，待到天空变蓝，待到夜幕降临。&lt;/p&gt;
 &lt;p&gt;虽然已经见过很多次了，但每次看到它都如第一次见到时那般激动。&lt;/p&gt;
 &lt;p&gt;虽然已经见过很多次了，却仍依依不舍，期待着下次相遇快点到来。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/seaandsunset_iandcat/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/seaandsunset_iandcat/1.jpg&#34;
 	width=&#34;720&#34;
 	height=&#34;894&#34;
-	srcset=&#34;/post/seaandsunset_iandcat/1_hu2484484711393243909.jpg 480w, /post/seaandsunset_iandcat/1_hu11740210468611138369.jpg 1024w&#34;
+	srcset=&#34;//localhost:1313/post/seaandsunset_iandcat/1_hu2484484711393243909.jpg 480w, //localhost:1313/post/seaandsunset_iandcat/1_hu11740210468611138369.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -528,10 +549,10 @@
 &lt;p&gt;Alex Hinson.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果可以的话我想有一间一面窗户朝西的屋子，和一只粘人的猫，等到傍晚的时候可以躺在沙发上抱着猫，一点点看着夕阳把我的影子拉长，然后度过一个充实又虚无的一天。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/seaandsunset_iandcat/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/seaandsunset_iandcat/2.png&#34;
 	width=&#34;920&#34;
 	height=&#34;1144&#34;
-	srcset=&#34;/post/seaandsunset_iandcat/2_hu9260245396369146446.png 480w, /post/seaandsunset_iandcat/2_hu17638681222786732091.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/seaandsunset_iandcat/2_hu9260245396369146446.png 480w, //localhost:1313/post/seaandsunset_iandcat/2_hu17638681222786732091.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -545,10 +566,10 @@
         </item>
         <item>
         <title>我和我</title>
-        <link>/post/2/</link>
+        <link>//localhost:1313/post/2/</link>
         <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/2/</guid>
+        <guid>//localhost:1313/post/2/</guid>
         <description>&lt;p&gt;狂欢过后，下雨了，我们站在路上。&lt;/p&gt;
 &lt;p&gt;“我们相处的不是挺好的吗？”&lt;/p&gt;
 &lt;p&gt;……嗯。&lt;/p&gt;
@@ -559,16 +580,16 @@
         </item>
         <item>
         <title>猫猫文学</title>
-        <link>/post/cat/</link>
+        <link>//localhost:1313/post/cat/</link>
         <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>/post/cat/</guid>
+        <guid>//localhost:1313/post/cat/</guid>
         <description>&lt;p&gt;下面都是网上找的文章&lt;/p&gt;
 &lt;p&gt;姜黄色的猫是突然决定要走的，没有什么预兆，它那天下班还在罗森便利店买了一串鸡脆骨，一个饭团，这时个摩的佬呼地刹在它面前，问:靓仔，坐摩的吗。姜黄色的猫突然决定要走，它说坐吧。摩的佬问它，去哪里。猫说:我要回家，回有那个有斑斑驳驳的墙，有大杨树的树影子，有歌谣和星星的家。摩的佬说:五块走不走。猫说:行。姜黄色的猫站在车上，风把它的毛和耳朵吹翻过去，它哦吼吼地唱起了歌:就是这样，我骑着风神125，辞别这个哮喘的都市。管它什么景气什么前途啊，我不在乎。
-&lt;img src=&#34;/post/cat/1.png&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/1.png&#34;
 	width=&#34;418&#34;
 	height=&#34;374&#34;
-	srcset=&#34;/post/cat/1_hu4674396243510110294.png 480w, /post/cat/1_hu14527826969492257264.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/1_hu4674396243510110294.png 480w, //localhost:1313/post/cat/1_hu14527826969492257264.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -579,10 +600,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;蒜泥猫跑车已经几年了，但是没攒下一分钱规矩就是这样定的，猫司机的收入只有人类的30%。那天晚上蒜泥猫突然不想再跑了，他把车停在路边看着远方灯火发呆了很久，然后下车进了美宜佳便利店要了三个他最爱的金枪鱼罐头。结完账的时候蒜泥猫突然问店员“你知道英国在哪吗?大家都说我是英国猫。”店员头也没抬淡淡答道在西方。”蒜泥猫看了一眼手机上的余额然后回到车上驾驶着他的汽车向西开去。还有七百多块钱，够加两箱油，希望英国不会太远”蒜泥猫说，“况且我还有三个金枪鱼罐头。
-&lt;img src=&#34;/post/cat/2.png&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/2.png&#34;
 	width=&#34;402&#34;
 	height=&#34;272&#34;
-	srcset=&#34;/post/cat/2_hu10880508541346930632.png 480w, /post/cat/2_hu14975902031433318106.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/2_hu10880508541346930632.png 480w, //localhost:1313/post/cat/2_hu14975902031433318106.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -593,10 +614,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;南方的猫总算是能走了，他这次只背上一个显眼的旅行包，和两袋鲜虾鱼板面，头也不回地走了。北方的朔风从桥上掠过其他猫应该都在壁炉旁睡着了吧。夜色渐渐笼罩华北平原，这大都市似乎容不下渺小的他。他跳到列车座椅上，放好了行李，接着合上眼“再睁眼肯定就离开这了”他这样想。
-&lt;img src=&#34;/post/cat/3.png&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/3.png&#34;
 	width=&#34;413&#34;
 	height=&#34;273&#34;
-	srcset=&#34;/post/cat/3_hu13737669885279680084.png 480w, /post/cat/3_hu13615360188305219423.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/3_hu13737669885279680084.png 480w, //localhost:1313/post/cat/3_hu13615360188305219423.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -607,10 +628,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;暹罗车夫猫今天休息，但是车夫猫猫们照例是不休息的。车夫猫辛苦，平时在街上用他矮小的身板拉客，比人类多挣一份可爱钱。一趟又一趟地今天他终于攒够了钱，买了一辆自己的新车!可是每天拉客，成了车夫猫的习惯，他踱来踱去，怎么也歇不住，便在屋子里拉着车，原地转圈。直到肚子饿了，嘴巴馋了，才想起来要用剩下的零钱去买早就盯上的冻干&amp;ndash;他终于可以享受一下了。
-&lt;img src=&#34;/post/cat/4.png&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/4.png&#34;
 	width=&#34;486&#34;
 	height=&#34;427&#34;
-	srcset=&#34;/post/cat/4_hu11788802027601375380.png 480w, /post/cat/4_hu13626746846628046201.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/4_hu11788802027601375380.png 480w, //localhost:1313/post/cat/4_hu13626746846628046201.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -621,10 +642,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;终于回家了，猫在门口等我，我放下行李就冲过去抱住他，猫把我推开说:你出去玩了那么多天，有给我带礼物吗?我尴尬的笑了笑，借口去厕所的时间赶紧去柜子里拿了个罐头给猫，我说:这是我从长沙带回来的罐头。我知道猫不识字，看不出来的，问他:现在要打开吃掉吗?猫摇了摇头说:这个罐头有纪念意义，我要留着。后来偷看猫的日记:我不敢吃那个罐头，我怕味道和柜子里的一样&amp;hellip;
-&lt;img src=&#34;/post/cat/5.png&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/5.png&#34;
 	width=&#34;415&#34;
 	height=&#34;441&#34;
-	srcset=&#34;/post/cat/5_hu12919778290321562930.png 480w, /post/cat/5_hu12906332695442118078.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/5_hu12919778290321562930.png 480w, //localhost:1313/post/cat/5_hu12906332695442118078.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -635,10 +656,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;灰猫有一顶橘色的帽子，是灰猫用捡来的橘子皮做的很小心地掏了两个洞露出耳朵，在它脑袋上忠实地散发着橘子的气味。灰猫戴着橘子皮帽子走在街上，心里美滋滋的。而街上的人都笑话它，有的人说猫怎么能戴帽子，有的人说橘子皮怎么能当帽子用。也有的人告诉灰猫不要在意别人的看法。灰猫掉转头回了家，坐在椅子上自言自语说:“不在意别人的看法是很酷”。灰猫说。然后摘掉，可是在意别人的看法，也不是什么过错啊。帽子拿在手里看了好一会，昂昂地哭了起来。
-&lt;img src=&#34;/post/cat/6.jpg&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/6.jpg&#34;
 	width=&#34;125&#34;
 	height=&#34;125&#34;
-	srcset=&#34;/post/cat/6_hu4264020930485915353.jpg 480w, /post/cat/6_hu18088147217061847563.jpg 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/6_hu4264020930485915353.jpg 480w, //localhost:1313/post/cat/6_hu18088147217061847563.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -649,10 +670,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;嘿，我可真羡慕你，猫趴在窗口对我说，我们猫一天到晚风里来雨里去，讨口子讨不到二斤面，你倒好，吹不着晒不到，三餐都有人送上门我苦笑着告诉猫这叫牢房，猫却骂我身在福中不知福，生活是乏味可陈之物堆彻的高墙，猫想进来，我想出去。
-&lt;img src=&#34;/post/cat/7.png&#34;
+&lt;img src=&#34;//localhost:1313/post/cat/7.png&#34;
 	width=&#34;699&#34;
 	height=&#34;432&#34;
-	srcset=&#34;/post/cat/7_hu10056274964880728680.png 480w, /post/cat/7_hu3395132056391647607.png 1024w&#34;
+	srcset=&#34;//localhost:1313/post/cat/7_hu10056274964880728680.png 480w, //localhost:1313/post/cat/7_hu3395132056391647607.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -665,10 +686,10 @@
         </item>
         <item>
         <title>囚</title>
-        <link>/post/1/</link>
+        <link>//localhost:1313/post/1/</link>
         <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>/post/1/</guid>
+        <guid>//localhost:1313/post/1/</guid>
         <description>&lt;p&gt;我感觉我被困住了，困在了一个慢慢腐烂的躯壳里，困在了工作上，困在了家庭中，困在了一个整日雾蒙蒙的城市，像一只小时候用盆抓到的鸟，像一只野外被夹子夹住的猫，从出生直到死亡都在等待，都在准备，等待着上初中、高中、大学、毕业、结婚、生子。准备着考试、工作、赚钱、养育。然后死亡。&lt;/p&gt;
 &lt;p&gt;这种感觉并不是不幸福导致的，也非压力或悲伤，只是感觉自己的人生已经被拷住，锁牢。&lt;/p&gt;
 &lt;p&gt;做任何事都会考虑以后，无论来自自己或是他人，最近总想去外面看看，辞掉工作，远离家乡，一个人背着包，从西藏走到新疆。湖泊边看着晚霞宛如烈火，爬上雪山看日出的金碧辉煌。&lt;/p&gt;

@@ -17,7 +17,19 @@
         {{- $Theme := printf `<b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="%s">Stack</a></b>` $ThemeVersion -}}
         {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}}
 
-        {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
+        {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }}
         {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
+    </section>
+    <section class="running-time">
+        博客已运行
+        <span id="runningdays" class="running-days"></span>
+    </section>
+    <section class="total-count">
+        {{$scratch := newScratch}}
+        {{ range (where .Site.Pages "Kind" "page" )}}
+        {{$scratch.Add "total" .WordCount}}
+        {{ end }}
+        发表了{{ len (where .Site.RegularPages "Section" "post") }}篇文章 ·
+        总计{{ div ($scratch.Get "total") 1000.0 | lang.FormatNumber 2 }}k字
     </section>
 </footer>

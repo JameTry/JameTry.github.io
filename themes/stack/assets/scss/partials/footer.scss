@@ -27,4 +27,18 @@ footer.site-footer {
             color: var(--body-text-color);
         }
     }
+    .running-time {
+        color: var(--card-text-color-secondary);
+        font-weight: normal;
+
+        .running-days {
+            font-weight:bold;
+            color: var(--emphasize-text-color);
+        }
+    }
+    .total-count {
+        color: var(--card-text-color-secondary);
+        font-weight: normal;
+        margin-bottom: 5px;
+    }
 }

@@ -1,10 +1,9 @@
-+++
-title = 'Hello World'
-date = 2024-08-28
-draft = false
-description  = '把博客搬到 github page 上'
-
-+++
+---
+title: 'Hello World'
+date: 2024-08-28
+draft: false
+description: '把博客搬到 github page 上'
+---
 
 之前的www.jame.work那个服务器是腾讯云打折的时候500多好像买3年的，但只有一个博客跑着，明年就过期了，干脆不整自己的服务器了。
 

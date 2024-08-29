@@ -1,7 +1,6 @@
 defaultContentLanguage: zh-cn
-params:
-  contact:
-    email: 3525166560@qq.com
+hasCJKLanguage : true
+cleanDestinationDir: true
 title: Jame
 theme: stack
 menus:
@@ -20,11 +19,16 @@ pagination:
   pagerSize: 10
   path: page
 
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
 languages:
   zh-cn:
     contentDir: content
     languageCode: zh-cn
     languageName: 中文
     params:
-      reading_speed: 150
+      reading_speed: 100
     weight: 1
