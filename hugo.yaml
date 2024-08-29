@@ -30,5 +30,5 @@ languages:
     languageCode: zh-cn
     languageName: 中文
     params:
-      reading_speed: 100
+      reading_speed: 70
     weight: 1
