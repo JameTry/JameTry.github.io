@@ -1,5 +1,5 @@
 var canvas1, ctx, W, H;
-if (screen.width >= 988) var mp = 80; else mp = 40;
+if (screen.width >= 988) var mp = 80; else mp = 30;
 var deactivationTimerHandler, reactivationTimerHandler, animationHandler, particles = [], angle = 0, tiltAngle = 0, confettiActive = !0, animationComplete = !0, particleColors = {
     colorOptions: ["DodgerBlue", "OliveDrab", "Gold", "pink", "SlateBlue", "lightblue", "Violet", "PaleGreen", "SteelBlue", "SandyBrown", "Chocolate", "Crimson"], colorIndex: 0, colorIncrementer: 0, colorThreshold: 10, getColor: function () {
         return this.colorIncrementer >= 10 && (this.colorIncrementer = 0, this.colorIndex++, this.colorIndex >= this.colorOptions.length && (this.colorIndex = 0)), this.colorIncrementer++, this.colorOptions[this.colorIndex]
