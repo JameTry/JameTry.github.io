@@ -1,12 +1,221 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="zh">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>h5-canvas撒花效果</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <meta name="robots" content="noindex, nofollow"/>
+    <style>
+        body {
+            background-color: #222222
+        }
+    </style>
+
 </head>
+<style>
+    #my_canvas {
+        display: block;
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+</style>
+<style>
+    @import url("https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap");
+    :root {
+        --d: 700ms;
+        --e: cubic-bezier(0.19, 1, 0.22, 1);
+        --font-sans: "Rubik", sans-serif;
+        --font-serif: "Cardo", serif;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+
+
+
+
+    .page-content {
+        display: grid;
+        grid-gap: 1rem;
+        padding: 1rem;
+        max-width: 1024px;
+        margin: 0 auto;
+        font-family: var(--font-sans);
+    }
+    @media (min-width: 600px) {
+        .page-content {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+    @media (min-width: 800px) {
+        .page-content {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+
+    .card {
+        position: relative;
+        display: flex;
+        align-items: flex-end;
+        overflow: hidden;
+        padding: 1rem;
+        width: 100%;
+        text-align: center;
+        color: whitesmoke;
+        background-color: whitesmoke;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 2px 2px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1), 0 8px 8px rgba(0, 0, 0, 0.1), 0 16px 16px rgba(0, 0, 0, 0.1);
+    }
+    @media (min-width: 600px) {
+        .card {
+            height: 350px;
+        }
+    }
+    .card:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 110%;
+        background-size: cover;
+        background-position: 0 0;
+        transition: transform calc(var(--d) * 1.5) var(--e);
+        pointer-events: none;
+    }
+    .card:after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 200%;
+        pointer-events: none;
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.009) 11.7%, rgba(0, 0, 0, 0.034) 22.1%, rgba(0, 0, 0, 0.072) 31.2%, rgba(0, 0, 0, 0.123) 39.4%, rgba(0, 0, 0, 0.182) 46.6%, rgba(0, 0, 0, 0.249) 53.1%, rgba(0, 0, 0, 0.32) 58.9%, rgba(0, 0, 0, 0.394) 64.3%, rgba(0, 0, 0, 0.468) 69.3%, rgba(0, 0, 0, 0.54) 74.1%, rgba(0, 0, 0, 0.607) 78.8%, rgba(0, 0, 0, 0.668) 83.6%, rgba(0, 0, 0, 0.721) 88.7%, rgba(0, 0, 0, 0.762) 94.1%, rgba(0, 0, 0, 0.79) 100%);
+        transform: translateY(-50%);
+        transition: transform calc(var(--d) * 2) var(--e);
+    }
+    .card:nth-child(1):before {
+        background-image: url(avatar.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+
+    .content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        padding: 1rem;
+        transition: transform var(--d) var(--e);
+        z-index: 1;
+    }
+    .content > * + * {
+        margin-top: 1rem;
+    }
+
+    .title {
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1.2;
+    }
+
+    .copy {
+        font-size: 14px;
+    }
+
+    .btn {
+        cursor: pointer;
+        margin-top: 1.5rem;
+        padding: 0.75rem 1.5rem;
+        font-weight: bold;
+        letter-spacing: 0.025rem;
+        text-transform: uppercase;
+        color: white;
+        background-color: black;
+        border: none;
+    }
+    .btn:hover {
+        background-color: #0d0d0d;
+    }
+    .btn:focus {
+        outline: 1px dashed yellow;
+        outline-offset: 3px;
+    }
+
+    @media (hover: hover) and (min-width: 600px) {
+        .card:after {
+            transform: translateY(0);
+        }
+
+        .content {
+            transform: translateY(calc(100% - 4.5rem));
+        }
+        .content > *:not(.title) {
+            opacity: 0;
+            transform: translateY(1rem);
+            transition: transform var(--d) var(--e), opacity var(--d) var(--e);
+        }
+
+        .card:hover,
+        .card:focus-within {
+            align-items: center;
+        }
+        .card:hover:before,
+        .card:focus-within:before {
+            transform: translateY(-4%);
+        }
+        .card:hover:after,
+        .card:focus-within:after {
+            transform: translateY(-50%);
+        }
+        .card:hover .content,
+        .card:focus-within .content {
+            transform: translateY(0);
+        }
+        .card:hover .content > *:not(.title),
+        .card:focus-within .content > *:not(.title) {
+            opacity: 1;
+            transform: translateY(0);
+            transition-delay: calc(var(--d) / 8);
+        }
+
+        .card:focus-within:before, .card:focus-within:after,
+        .card:focus-within .content,
+        .card:focus-within .content > *:not(.title) {
+            transition-duration: 0s;
+        }
+    }
+</style>
+<script src="confetti.js"></script>
 <body>
-<h1>亻尔 女  子</h1>
+<canvas id="my_canvas" width="1920" height="950"></canvas>
+<p><strong>你好 ， 再见</strong></p>
+<p>如果你想将我添加到你的友链，请使用以下信息</p>
+<p>网站名称：Jame</p>
+<p>网址：https://jame.work</p>
+<p>网站图片：https://jame.work/avatar.png</p>
+
+<br>
+<p>如果你想在此页面展示你的网站，请留下你的网址，名称，展示的图片(一般都是头像)，介绍网站或自己的一句话(可以不写)</p>
+<br>
+<main class="page-content">
+    <div class="card">
+        <div class="content">
+            <h2 class="title">Jame</h2>
+            <p class="copy">展示样例-</p>
+            <a href="https://www.jame.work" target="_blank"><button class="btn">去看看</button></a>
+        </div>
+    </div>
+</main>
+
 </body>
 </html>

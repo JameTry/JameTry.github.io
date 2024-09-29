@@ -8,12 +8,9 @@ menus:
     - name: 文章
       pageRef: /post
       weight: 1
-    - name: 图片
-      pageRef: /picture
-      weight: 2
     - name: 友链
       pageRef: /friend/index
-      weight: 3
+      weight: 2
 pagination:
   disableAliases: false
   pagerSize: 10
