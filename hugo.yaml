@@ -11,6 +11,12 @@ menus:
     - name: 友链
       pageRef: /friend/index
       weight: 2
+#    - name: 关于我
+#      url: /a/aboutMe.html
+#      weight: 3
+#      Params:
+#        newTab: true
+
 pagination:
   disableAliases: false
   pagerSize: 10

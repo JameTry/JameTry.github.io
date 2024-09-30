@@ -97,14 +97,14 @@
     .site-avatar {
         position: relative;
         margin: 0;
-        width: 60px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
         flex-shrink: 0;
 
         .site-logo {
             width: 100%;
             height: 100%;
-            border-radius: 100%;
+            border-radius: 10%;
             box-shadow: var(--shadow-l1);
         }
 
