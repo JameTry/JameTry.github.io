@@ -213,6 +213,10 @@
         text-indent: 2em;
     }
 
+    & > .no-text{
+        text-indent: 0;
+    }
+
     h1,
     h2,
     h3,
