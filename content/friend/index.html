@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <title>h5-canvas撒花效果</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
-    <meta name="robots" content="noindex, nofollow"/>
-    <style>
-        body {
-            background-color: #222222
-        }
-    </style>
 
-</head>
 <style>
     #my_canvas {
         display: block;
@@ -21,9 +8,12 @@
         left: 0;
         z-index: 1;
     }
+
+    html {
+        overflow-x: hidden; /* 隐藏横向滚动条 */
+    }
 </style>
 <style>
-    @import url("https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap");
     :root {
         --d: 700ms;
         --e: cubic-bezier(0.19, 1, 0.22, 1);
@@ -195,8 +185,8 @@
         }
     }
 </style>
+<script src="jquery3-2-1-mini.js"></script>
 <script src="confetti.js"></script>
-<body>
 <canvas id="my_canvas" width="95vw" height="100vh"></canvas>
 <h2><strong>你好 ， 再见</strong></h2>
 <p>如果你想将我添加到你的友链，请使用以下信息</p>
@@ -205,7 +195,7 @@
 <p>网站图片：https://jame.work/avatar.png</p>
 
 <br>
-<p>如果你想在此页面展示你的网站，请留下你的网址，名称，展示的图片(一般都是头像)，介绍网站或自己的一句话(可以不写)</p>
+<p>如果你想在此页面展示你的网站，请留下你的网址，名称，展示的图片，介绍网站或自己的一句话(可以不写)</p>
 <br>
 <main class="page-content">
     <div class="card">
@@ -215,7 +205,7 @@
             <a href="https://www.jame.work" target="_blank"><button class="btn">去看看</button></a>
         </div>
     </div>
+
+
 </main>
 
-</body>
-</html>

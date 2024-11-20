@@ -11,6 +11,9 @@ menus:
     - name: 友链
       pageRef: /friend/index
       weight: 2
+    - name: 留言
+      pageRef: /post/0
+      weight: 3
 #    - name: 关于我
 #      url: /a/aboutMe.html
 #      weight: 3

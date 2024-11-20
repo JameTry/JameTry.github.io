@@ -92,10 +92,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 */
 :root {
     --article-font-family: var(--base-font-family);
-    --article-font-size: 1.75rem;
+    --article-font-size: 1.7rem;
 
     @include respond(md) {
-        --article-font-size: 1.75rem;
+        --article-font-size: 1.7rem;
     }
 
     --article-line-height: 1.85;
