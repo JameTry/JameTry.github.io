@@ -3,6 +3,8 @@ title = '海和夕阳，我和猫'
 date = 2024-04-12
 draft = false
 description  = ''
+categories = ['感想','故事']
+tags = ['风景','猫']
 
 +++
 

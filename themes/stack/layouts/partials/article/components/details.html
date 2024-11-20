@@ -21,6 +21,14 @@
             {{ . }}
         </h3>
         {{ end }}
+
+
+        {{ if .Params.informalEssay }}
+        <h3 class="informal-essay">
+            {{ .Content }}
+        </h3>
+        {{ end }}
+
     </div>
 
     {{ $showReadingTime := .Params.readingTime | default (.Site.Params.article.readingTime) }}

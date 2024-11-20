@@ -3,6 +3,8 @@ title = '猫猫文学'
 date = 2024-01-19
 draft = false
 description  = ''
+categories = ['故事']
+tags = ['猫']
 
 +++
 

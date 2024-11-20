@@ -83,6 +83,16 @@
         font-size: 2rem;
     }
 }
+.informal-essay {
+    font-weight: normal;
+    color: var(--card-text-color-main);
+    line-height: 1.5;
+    margin: 0;
+    font-size: 1.75rem;
+    @include respond(xl) {
+        font-size: 1.75rem;
+    }
+}
 
 .article-title-wrapper {
     display: flex;
@@ -135,7 +145,7 @@
     a {
         color: var(--accent-color-text);
         background-color: var(--accent-color);
-        padding: 8px 16px;
+        padding: 5px 15px;
         border-radius: var(--tag-border-radius);
         display: inline-block;
         font-size: 1.4rem;

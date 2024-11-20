@@ -3,7 +3,8 @@ title = '我们本可以飞向太空'
 date = 2024-10-15
 draft = false
 description  = ''
-
+categories = ['感想']
+tags = ['战争']
 +++
 
 各种导弹在天上时十分的美丽，长长的轨迹，像花火，像流星。

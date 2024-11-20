@@ -119,7 +119,14 @@ params:
             id:
 
     widgets:
-        homepage: []
+        homepage:
+            - type: archives
+            - type: categories
+              params:
+                limit: 500
+            - type: tag-cloud
+              params:
+                  limit: 500
         page: []
 
     opengraph:
