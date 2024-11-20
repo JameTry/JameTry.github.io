@@ -38,7 +38,7 @@ params:
 
     comments:
         enabled: true
-        provider: twikoo
+        provider: gitalk
 
         disqusjs:
             shortname:
@@ -87,8 +87,9 @@ params:
                 placeholder:
 
 # mongodb+srv://jametry:sak41880@cluster0.8le7l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+#        https://sakznb666-twikoo.hf.space
         twikoo:
-            envId: https://sakznb666-twikoo.hf.space
+            envId:
             region:
             path:
             lang:
@@ -108,11 +109,11 @@ params:
             lang:
 
         gitalk:
-            owner:
-            admin:
-            repo:
-            clientID:
-            clientSecret:
+            owner: JameTry
+            admin: JameTry
+            repo: comments
+            clientID: Ov23li5WHY0CEnCt808g
+            clientSecret: afbf1b8acd0c877ecf596770490121e56b5179b7
 
         cusdis:
             host:
