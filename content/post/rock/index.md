@@ -3,7 +3,7 @@ title = '石板'
 date = 2024-09-02
 draft = false
 description  = ''
-categories = ['故事']
+categories = ['胡言乱语']
 
 +++
 
